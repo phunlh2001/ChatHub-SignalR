@@ -1,0 +1,1 @@
+## Test config SignalR + ASP.NET Razor Page 5.0
